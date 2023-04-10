@@ -1,0 +1,197 @@
+.container-fluid{
+  background-color:black;
+  background-image: url('https://wallpapercave.com/wp/wp2042100.jpg');
+  height: 600px;
+}
+
+.meClass{
+  color: white;
+  padding-left: 300px;
+  padding-right: 200px;
+  padding-top: 100px;
+  padding-bottom: 80px;
+
+}
+
+h1{
+  font-size: 80px !important;
+  font-family: 'Playfair Display', serif;
+
+}
+
+
+p{
+  color: #F0EEED;
+}
+
+h2{
+  text-align: center;
+
+}
+
+.Education{
+  color: #EDF1D6;
+  background-color: #20262E;
+}
+
+.padding{
+  padding-left: 400px;
+}
+
+h3{
+   color: #EEEEEE;
+   text-align: center;
+}
+
+h3:hover{
+  color: white;
+}
+.aboutClass{
+  background-color: #181823;
+  color: white;
+  text-align: left;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  padding-left: 180px;
+  padding-right: 180px;
+}
+
+.imgDiv{
+  padding-left: 400px;
+}
+.imgClass{
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+}
+.navDiv{
+  padding-left: 380px;
+  padding-top: 40px;
+}
+
+.navbar-brand{
+  padding-left: 20px;
+  padding-right: 300px;
+  padding-top: 40px
+}
+
+.dev{
+  color: #F94A29;
+}
+
+
+.row{
+  background-color: #ECE8DD;
+}
+
+.colClass{
+ background-color: #20262E;
+ padding-top: 120px;
+ padding-bottom: 120px;
+ padding-left: 80px;
+ color: grey;
+}
+
+.h2Class{
+  text-align: left;
+}
+.colClass:hover{
+  background-color: black;
+  color: white;
+}
+
+.xlm{
+  padding-left: 200px;
+}
+
+.projects{
+  background-image: url("https://i.pinimg.com/originals/19/48/d8/1948d81d8e8d75425556e60d5e45f3e1.jpg");
+  color: #DBE4C6;
+  text-align: center;
+  padding-top: 150px;
+  padding-right: 200px;
+  padding-left: 100px;
+  padding-bottom: 100px;
+  font-family: "Ubuntu";
+}
+
+.xyz{
+  padding-right: 100px;
+  padding-top: 50px;
+}
+
+.Contact{
+  padding-top: 100px;
+  background-color: black;
+  color: white;
+  /* padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 60px; */
+}
+
+.c1{
+  /* text-align: left; */
+
+  color:red;
+  padding-left: 120px !important;
+  width: 100%;
+
+}
+
+.sdk{
+  color: black;
+}
+
+.sdk:hover{
+  color: white
+}
+.c2{
+  text-align: right;
+  color: white;
+  padding-right: 120px !important;
+}
+
+.blue:hover{
+  color: #3E54AC;
+}
+
+.blue1:hover{
+  color: #4E6E81;
+}
+
+.pink:hover{
+  color: magenta;
+}
+
+.abc{
+  background-image: url("https://www.fugenx.com/wp-content/uploads/2019/04/Blockchain-Wallets-for-Securing-Online-Payments.jpg");
+  height: 400px;
+  width: 200px;
+
+}
+
+.abcd{
+  background-image: url("https://www.ctepl.com/wp-content/uploads/2021/06/Time-Series-Forecasting-and-Machine-Learning.jpg");
+  height: 400px;
+  width: 200px;
+
+
+}
+
+
+.abc:hover{
+  height: 500px;
+  width: 400px;
+  font-size: 100px;
+
+  background: black;
+  color: white;
+}
+
+.abcd:hover{
+  height: 500px;
+  width: 400px;
+  font-size: 100px;
+  background: black;
+  color: white;
+}
